@@ -1,0 +1,73 @@
+
+
+.font{
+  
+    font-family: century gothic;
+    color: black;
+    margin-top: 15%;
+
+   
+}
+.img{
+
+  
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 30px
+    
+   
+    
+}
+.border{
+    border-color:#94B6D2;
+    border-width: 10px;
+    border-radius: 50%
+}
+
+.p1{
+    margin-top: -20px;
+   margin-bottom: 5%;
+    margin-left:40%;
+    font-family: century;
+}
+.font1{
+font-family: sans-serif;
+margin-left: 13%;
+margin-top: 20px;
+}
+.profile-background{
+    background-color:  #F5F4F4;
+    
+}
+.education
+{
+margin-top: 15px;
+}
+.color{
+    color: white;
+}
+.margin-left{
+margin-left:15px;
+}
+
+.border-education{
+border-color: brown;
+border-radius: 140px;
+}
+
+.linked-img{
+    background: url("linkedin.jpg");
+
+}
+.float{
+
+    float: left;
+    width:25%;
+}
+.hobbies{
+margin-top: 7%;
+margin-right:2%;
+}
+.animation{
+    animation-iteration-count: 1;
+}
