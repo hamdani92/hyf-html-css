@@ -5,4 +5,4 @@ https://hamdani92.github.io/hyf-html-css/week1/
 
 Week 2 assignment
 
-https://hamdani92.github.io/hyf-html-css/week1/
+https://hamdani92.github.io/hyf-html-css/week2/
