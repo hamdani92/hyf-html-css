@@ -1,0 +1,56 @@
+*{
+background-color:lightblue;
+}
+
+
+.body {
+    font-size: 16px;
+    font-family: 'bodoni_egyptian_promedium'
+}
+
+img{
+    background-image: url("img/menu.jpg");
+}
+
+.menu{
+    text-shadow: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+
+margin-left: 20%;
+margin-top: 3%;
+color: black;
+
+}
+header,a,h1{
+    font-size: 25px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+div,p{
+    font-size: 15px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+article{
+
+    border-radius: 60px;
+
+
+
+  
+ 
+}
+
+
+
+footer,h4,p{
+
+    font-size: 25%;
+    color: black;
+}
+
+.h1{
+font-size: 60px;
+}
