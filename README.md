@@ -7,5 +7,4 @@ Week 2 assignment
 
 https://hamdani92.github.io/hyf-html-css/week2/
 
-week 3
-https://hamdani92.github.io/hyf-html-css/week3/
+
